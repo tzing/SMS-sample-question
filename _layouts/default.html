@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="zh-Hant-TW">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+        crossorigin="anonymous">
+    <style>
+        h2 {
+            margin-top: 1em;
+            margin-bottom: .4em;
+        }
+
+        .container {
+            margin-bottom: 12em;
+        }
+
+        .row {
+            margin-top: .5em;
+            margin-bottom: .5em;
+        }
+
+        @media print {
+
+            .no-print,
+            .no-print * {
+                display: none !important;
+            }
+
+            .table td {
+                padding: .3em;
+            }
+        }
+    </style>
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-126485879-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'UA-126485879-1');
+    </script>
+
+    <title>{{ page.title }} | {{ site.title }}</title>
+</head>
+
+<body>
+    {{ content }}
+</body>
+
+</html>

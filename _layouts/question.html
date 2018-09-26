@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<div class="container">
+    <div class="row">
+        <h1>{{ page.title }}</h1>
+    </div>
+    <div class="row no-print">
+        {% include nav.html %}
+    </div>
+    <div class="row">
+        <div class="alert alert-danger no-print" role="alert">
+            <strong>注意！</strong>
+            以下參考參考答案是從歷年考古直接複製貼上；可能因法規更新而答案有所變動，請自行斟酌使用。
+        </div>
+        {{ content }}
+    </div>
+</div>
+
+<!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+    crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+    crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+    crossorigin="anonymous"></script>
+<script>
+    $('table').addClass('table').addClass('table-striped');
+</script>

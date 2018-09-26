@@ -1,0 +1,13 @@
+# jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# editor
+.vscode/
+
+# python
+.venv/
+Pipfile
+Pipfile.lock
