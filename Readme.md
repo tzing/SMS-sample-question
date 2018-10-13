@@ -38,11 +38,13 @@
 ## 參考資料
 
 - [替代役實施條例](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=D0040017)
+    - [停役替代役役男免予回役作業規定](http://glrs.moi.gov.tw/LawContent.aspx?id=FL019351)
 - [替代役役男獎懲辦法](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=D0040028)
 - [替代役役男請假規則](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=D0040021)
 - [替代役役男權利實施辦法](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=D0040024)
 - [替代役役男輔導教育辦法](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=D0040019)
 - [替代役役男保險實施辦法](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=D0040027)
+- [替代役役男撫卹實施辦法](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=D0040025)
 - [替代役役男就醫醫療費用補助作業規定](http://www.rootlaw.com.tw/LawArticle.aspx?LawID=A040040051003300-1050629)
 - [替代役實施條例施行細則](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=D0040018)
 - [一般替代役役男訓練服勤管理辦法](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=D0040020)

@@ -1,5 +1,7 @@
 title: 替代役新訓考古題整理
 
+timezone: Asia/Taipei
+
 defaults:
   - scope:
       path: ""
