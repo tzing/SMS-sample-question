@@ -76,10 +76,12 @@
 
 ## 腳本
 
-`check.py` 是一個用於檢查是否有重複題目的腳本，它只能做最基本的文本比對；需要 Python 3.5 以上版本以執行，使用方式為
+- `bash generate.py` will generate all pdf files under `pdf` folder.
+
+- `check.py` 是一個用於檢查是否有重複題目的腳本，它只能做最基本的文本比對；需要 Python 3.5 以上版本以執行，使用方式為
 
 ```bash
 python check.py <FILE_NAME>
 ```
 
-`FILE_NAME` 可為 *true_and_false.md* 或 *multiple_choice.md*，基本上接近於寫死用於這兩支檔案。
+- `FILE_NAME` 可為 *true_and_false.md* 或 *multiple_choice.md*，基本上接近於寫死用於這兩支檔案。
