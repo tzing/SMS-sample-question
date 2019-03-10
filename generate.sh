@@ -11,5 +11,6 @@ mdpdf law/替代役役男就醫醫療費用補助作業規定.md pdf/替代役�
 mdpdf law/替代役役男保險實施辦法.md pdf/替代役役男保險實施辦法.pdf
 mdpdf law/內政部役政署替代役基礎訓練成績評比規定.md pdf/內政部役政署替代役基礎訓練成績評比規定.pdf
 mdpdf law/替代役役男撫卹實施辦法.md pdf/替代役役男撫卹實施辦法.pdf
+mdpdf law/服兵役役男家屬生活扶助實施辦法.md pdf/服兵役役男家屬生活扶助實施辦法.pdf
 mdpdf multiple_choice.md pdf/multiple_choice.pdf
 mdpdf true_and_false.md pdf/true_and_false.pdf
