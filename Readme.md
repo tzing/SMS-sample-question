@@ -13,9 +13,12 @@
 
 ## 題目來源
 
-題目基於 [#1OouwokT (SMSlife)](https://www.ptt.cc/bbs/SMSlife/M.1489735346.A.B9D.html) 整理之，再加上後續少數的更新
+題目來源為ptt及阿摩線上測驗，以下列出所有已搜集之資料來源
 
-| 代碼       | 標題 | 作者 |
+
+#### [Ptt SMSlife版](https://www.ptt.cc/bbs/SMSlife/index.html)
+
+| ptt文章代碼 | 標題 | 作者 |
 |-----------|------|-----|
 | [#1G4xmgqv](https://www.ptt.cc/bbs/SMSlife/M.1343470634.A.D39.html) | [情報] 新訓考古題+法規整理 | q9898q
 | [#1GIBOKCJ](https://www.ptt.cc/bbs/SMSlife/M.1346942484.A.313.html) | [情報] 111 梯新訓學科考試重點 | Popojjdd
@@ -33,6 +36,25 @@
 | [#1NDS0DLu](https://www.ptt.cc/man/SMSlife/DF24/DB55/M.1463163655.A.A2B.html) | [心得] 163T成功嶺考古題暨教育役考古題新增 | zerocoke
 | [#1OouwokT](https://www.ptt.cc/bbs/SMSlife/M.1489735346.A.B9D.html) | [心得] 考古題統整(排版過) | paul22707808
 | [#1PVO1x20](https://www.ptt.cc/bbs/SMSlife/M.1501397115.A.080.html) | [心得] 179T新訓新增考古題 | young60509
+
+
+#### [阿摩線上測驗](https://yamol.tw/catdownload.php?catid=4471)
+
+| 代碼 | 標題 |
+|-----|------|
+| [#63924](https://yamol.tw/exam.php?id=63924) | 105 年 - 成功嶺新訓考題PART2#63924
+| [#63937](https://yamol.tw/exam.php?id=63937) | 105 年 - 成功嶺新訓考題第一彈#63937
+| [#63936](https://yamol.tw/exam.php?id=63936) | 105 年 - 成功嶺新訓考題PART7選擇#63936
+| [#63935](https://yamol.tw/exam.php?id=63935) | 105 年 - 成功嶺新訓考題PART6選擇#63935
+| [#63931](https://yamol.tw/exam.php?id=63931) | 105 年 - 成功嶺新訓考題PART5選擇#63931
+| [#63930](https://yamol.tw/exam.php?id=63930) | 105 年 - 成功嶺新訓考題PART4選擇#63930
+| [#63929](https://yamol.tw/exam.php?id=63929) | 105 年 - 成功嶺新訓考題PART3是非#63929
+| [#63928](https://yamol.tw/exam.php?id=63928) | 105 年 - 成功嶺新訓考題PART7是非#63928
+| [#63927](https://yamol.tw/exam.php?id=63927) | 105 年 - 成功嶺新訓考題PART6是非#63927
+| [#63926](https://yamol.tw/exam.php?id=63926) | 105 年 - 成功嶺新訓考題PART4是非#63926
+| [#63925](https://yamol.tw/exam.php?id=63925) | 105 年 - 成功嶺新訓考題PART3選擇#63925
+| [#64959](https://yamol.tw/exam.php?id=64959) | 104 年 - 成功嶺新訓考題PART5是非#64959
+
 
 
 ## 參考資料
