@@ -73,10 +73,10 @@
 - [服兵役役男家屬生活扶助實施辦法](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=D0040032)
 - [內政部役政署替代役軍事基礎訓練成績評比規定](http://www.rootlaw.com.tw/LawArticle.aspx?LawID=A040040051006300-1060303)
 
-
 ## 腳本
 
 - `bash generate.py` will generate all pdf files under `pdf` folder.
+   - installation: `npm install mdpdf`
 
 - `check.py` 是一個用於檢查是否有重複題目的腳本，它只能做最基本的文本比對；需要 Python 3.5 以上版本以執行，使用方式為
 
