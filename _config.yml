@@ -4,6 +4,6 @@ timezone: Asia/Taipei
 
 defaults:
   - scope:
-      path: ""
+      path: "questions"
     values:
       layout: "question"

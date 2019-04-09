@@ -1,0 +1,25 @@
+h2 {
+    margin-top: 1em;
+    margin-bottom: .4em;
+}
+
+.container {
+    margin-bottom: 12em;
+}
+
+.row {
+    margin-top: .5em;
+    margin-bottom: .5em;
+}
+
+@media print {
+
+    .no-print,
+    .no-print * {
+        display: none !important;
+    }
+
+    .table td {
+        padding: .3em;
+    }
+}
