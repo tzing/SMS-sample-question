@@ -7,3 +7,9 @@ defaults:
       path: "questions"
     values:
       layout: "question"
+
+exclude:
+  - scripts
+  - Gemfile
+  - Gemfile.lock
+  - Readme.md
